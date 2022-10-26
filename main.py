@@ -1,7 +1,9 @@
 print("What is the name of the town you grew up in?")
-tName = input("Enter Town Name: ")
+townName = input("Enter Town Name: ")
 
 print("What is the name of your pet?")
-pName = input("Enter Pet Name: ")
+petName = input("Enter Pet Name: ")
 
-print("Your Band Name: " + tName + " " + pName)
+bandName = townName + " " + petName
+
+print("Your Band Name: " + bandName)
