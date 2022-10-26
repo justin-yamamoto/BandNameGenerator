@@ -4,4 +4,4 @@ tName = input("Enter Town Name: ")
 print("What is the name of your pet?")
 pName = input("Enter Pet Name: ")
 
-print("Your Band Name Is: " + tName + " " + pName)
+print("Your Band Name: " + tName + " " + pName)
